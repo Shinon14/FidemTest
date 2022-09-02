@@ -21,7 +21,10 @@ Además de esto, hay que instalar las dependencias de esta aplicación.
 
 Para instalar las dependencias de esta aplicación, siga estos pasos:
 
-> `pip install -r api/requirements.txt`
+    pip install -r api/requirements.txt
+
+
+
 > 
 > En caso de que surja algún error, revisar bien si al momento de ejecutar el comando se encuentra en el directorio donde se encuentre el archivo requirements.txt
 
